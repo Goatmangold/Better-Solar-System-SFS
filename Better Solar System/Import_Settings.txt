@@ -1,0 +1,9 @@
+{
+  "includeDefaultPlanets": false,
+  "includeDefaultHeightmaps": true,
+  "includeDefaultTextures": true,
+  "hideStarsInAtmosphere": true,
+  "authorName": "n/a",
+  "version": "n/a",
+  "description": "n/a"
+}
